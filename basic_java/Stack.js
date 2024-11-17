@@ -4,5 +4,5 @@
 let name = "Ayush Bardhani"
 let name2 = name
 name2 = "Rishi Bardhani"
-console.log("name")
-console.log("name2")  
+console.log(name)
+console.log(name2)  
